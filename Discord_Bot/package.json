@@ -1,0 +1,19 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "Dev Vaghasiya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
+}

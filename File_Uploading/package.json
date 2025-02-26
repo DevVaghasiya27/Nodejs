@@ -1,0 +1,21 @@
+{
+  "name": "file_uploading",
+  "version": "1.0.0",
+  "description": "file uploading using multer",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "keywords": [
+    "file",
+    "uploding",
+    "multer"
+  ],
+  "author": "Dev Vaghasiya",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
