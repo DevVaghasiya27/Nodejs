@@ -26,5 +26,5 @@ client.on("interactionCreate", (interaction) => {
 });
 
 client.login(
-  "MTMzMzA1OTU2NDU0Njk1MzI4Ng.GZZCOj.WKCPa0_hUH_23G30Y_MRbWL2r330kX7k6IlS5k"
+  "paste your token which is genrated by your bot"
 );
