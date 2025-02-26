@@ -1,0 +1,9 @@
+npm -v 
+npm: node package manger 
+node --version  (- means hyphen)
+(to check the version of NodeJs)
+
+DOM realated things are removed from NodeJS
+
+npm -init(initilise)
+create a template file (package.json)
